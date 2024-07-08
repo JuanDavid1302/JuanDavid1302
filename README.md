@@ -1,11 +1,5 @@
-<h1 align="center">Hi 👋, I'm Juan Restrepo</h1>
+<h1 align="center">Hi 👋, I'm Juan David 😁</h1>
 <h3 align="center">Software Developer 💻.</h3>
-
-<br>
-
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
 
 <br>
 
@@ -16,7 +10,7 @@
 
 - 📫 How to reach me **restrepo1331@gmail.com**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- ⚡ Fun fact : Food and Music🎵 are the reasons to live.
 
 <br>
 
@@ -37,12 +31,16 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,flask,html,js,mysql,postgres,py,react,sass,ts,vscode" />
-  </a> </p>
+    <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,flask,html,js" />
+  </a> 
+<a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,react,sass,ts,vscode" />
+  </a>
+</p>
 
 <br>
 
-<h3>Statistical Data :-</h3>
+<h3>Statistical Data :</h3>
 <p><img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=JuanDavid1302&show_icons=true&locale=en&bg_color=0d1117&text_color=ffffff&layout=compact"
     alt="adam-pw" 
@@ -54,11 +52,6 @@
     alt="adam-pw" /></p>
 
 <br>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JuanDavid1302&theme=dark&background=0d1117&date_format=M%20j%5B%2C%20Y%5D" alt="adam-pw" /></p>
-      
-<p align="left"> <a href="https://twitter.com/" target="blank"><img
-      src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 <!--
 **JuanDavid1302/JuanDavid1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
