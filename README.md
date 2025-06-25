@@ -34,7 +34,7 @@
     <img src="https://skillicons.dev/icons?i=git,bootstrap,css,figma,flask,html,js" />
   </a> 
 <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,react,sass,ts,vscode, node" />
+    <img src="https://skillicons.dev/icons?i=mysql,postgres,py,react,sass,ts,vscode,nodejs" />
   </a>
 </p>
 
